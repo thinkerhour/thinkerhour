@@ -8,15 +8,7 @@
 
 ###
 
-<p align="left">I'm Reva Cahaya Pangesti, an Informatics Engineering student entering my third year. Right now, I'm learning to become a Front-End Developer with a focus on UI/UX creative design. Psssst ... I'm also interested in game development and design.</p>
-
-###
-
-<h3 align="left">I have Previously Learned 😺</h3>
-
-###
-
-<p align="left">- Created a simple website to play around with colors and UI elements using HTML, CSS, and JavaScript. <br><br>- Made a simple pixel game using Java, handling both the logic and the UI design.<br><br>- Learning databases work and how to store data more efficiently. <br><br>- Software design, learning the key concepts behind building solid applications.</p>
+<p align="left">I'm Reva Cahaya Pangesti, an Informatics Engineering student entering my third year. I'm interested in game development and design.</p>
 
 ###
 
