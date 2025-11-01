@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUwNjJmNzZ1NXdkbzZ0ZnRwNWJzY3IxOWtjdWxjaG43ZHE3dnYxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZzeRN1srSziS4zZhB/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="center">🐈 Drop in, Travelers! ...</h2>
 
 ###
